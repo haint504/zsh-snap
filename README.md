@@ -8,7 +8,7 @@ repos in general.
 ## Installation
 Just copy-paste the following into your command line and press <kbd>Enter</kbd>:
 ```zsh
-git clone --depth 1 -- https://github.com/marlonrichert/zsh-snap.git
+git clone --depth 1 -- https://github.com/haint504/zsh-snap.git
 source zsh-snap/install.zsh
 ```
 
